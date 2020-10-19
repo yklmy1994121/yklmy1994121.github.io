@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{home.html}
 = Kai Yang
 
 ~~~
@@ -8,28 +8,33 @@
 [http://www.ufl.edu/ University of Florida] \n 
 Advisor: [http://users.phhp.ufl.edu/pqiu/research.html Professor Peihua Qiu]\n\n
 2004 Mowry Rd, CTRB 5th Floor \n
-Gainesville, FL 32610 \n
+Gainesville, FL 32611 \n
 Mobile: 352-870-8199 \n
 Email: yklmy1994121@ufl.edu
 ~~~
 
 == Education
 - Ph.D. Candidate in Biostatistics, University of Florida, 2016-Present
+- M.S. in Biostatistics, University of Florida, 2016-2019
 - B.S. in Mathematics, Nanjing University, 2012-2016
 
 == Honors and Awards
-- 2019 IMS/ASA Spring Research Conference (SRC) Student Travel Award
+- 2019-2020 Outstanding Dissertation Research Award, University of Florida 
+- 2019 IMS/ASA Spring Research Conference Student Travel Award
+- 2019 Midwest Biopharmaceutical Statistics Workshop Student Travel Award
 - 2018 Young Investigator Award, ASA section on Statistics in Epidemiology 
-- 2018 Best Student Paper Award, International Indian Statistical Association (IISA)
+- 2018 Best Student Paper Award, International Indian Statistical Association 
 - 2018 Student Travel Award, Department of Biostatistics, University of Florida 
-- 2017-2018 Outstanding Dissertation Research Award, Department of Biostatistics, University of Florida 
+- 2017-2018 Outstanding Dissertation Research Award, University of Florida 
 
 == Memberships
 - American Statistical Association (ASA)
+- Institute of Mathematical Statistics (IMS)
 - Eastern North American Region International Biometric Society (ENAR)
 - International Chinese Statistical Association (ICSA)
+- Institute for Operations Research and the Management Sciences (INFORMS)
 - American Association for the Advancement of Science (AAAS)
 
 == Skills
-- Computing: R, Fortran, C++, Matlab, Python
-- Languages: Chinese, English
+- Languages: English, Chinese
+- Computing: R, Fortran, C, Matlab, Python  
