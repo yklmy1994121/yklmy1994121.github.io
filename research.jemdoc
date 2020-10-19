@@ -4,23 +4,31 @@
 ~~~
 {Research Interests}
 
-- Spatio-temporal modelling 
-- Disease Surveillance
-- Statistical Process Control
-- Nonparametric methods
-- Longitudinal data analysis
-
+Disease Surveillance, Longitudinal Data Analysis, Nonparametric Regression, Spatio-Temporal Modeling, 
+Statistical Process Control 
 ~~~
 
 
 ~~~
-{Research Papers}
+{Publications}
 
-- *Yang, K.*, Qiu, P. (2018). Spatio-temporal incidence rate data analysis by nonparametric regression.
-  /Statistics in Medicine/, 37(13), 2094--2107.
-  
- - *Yang, K.*, Qiu, P. (2018). Online sequential monitoring of disease incidence rates.
-  /In revision/.
+- *Yang, K.*, Qiu, P. (2020). Adaptive process monitoring using covariate information. 
+/Technometrics/, in press. DOI: 10.1080/00401706.2020.1772115. [https://drive.google.com/file/d/1G5go5bvUiEhxh8FDO4eN57VhS8191bcQ/view?usp=sharing pdf] 
+
+- *Yang, K.*, Qiu, P. (2020). Online sequential monitoring of spatio-temporal disease incidence rates. /IISE Transactions/ 
+(a flagship journal of the Institute of Industrial Engineers), 52, 1218–1233.  [https://drive.google.com/file/d/1GNfodtG6mFgDPA4VVgHU03HyhT_foMjl/view?usp=sharing pdf] 
+- *Yang, K.*, Qiu, P. (2019). Nonparametric estimation of the spatio-temporal covariance structure. /Statistics in Medicine/, 
+38, 4555–4565. [https://drive.google.com/file/d/1SWy82DBBhwwDkK3H4EpyEQxlPXila_rC/view?usp=sharing pdf] 
+- *Yang, K.*, Qiu, P. (2018). Spatiotemporal incidence rate data analysis by nonparametric regression.
+  /Statistics in Medicine/, 37, 2094--2107. [https://drive.google.com/file/d/1PdLkextHn6EghfBl0em7QxBc8OrytbDI/view?usp=sharing pdf] 
+- *Yang, K.*, Qiu, P. (2020). BCEWMA: A New and Effective Biosurveillance System for Disease Outbreak Detection. 
+In /Statistical Methods for Global Health and Epidemiology/ (edited by Xinguang Chen and Ding-Geng Chen), 335–352, 
+Springer.  
+- Riner, A.N., Underwood, P., *Yang, K.*, Herremans, K.M., Cameron, M.E., Chamala, S., Qiu, P., George, T.J., Permuth, J.B., 
+Merchant, N.B., Trevino, J.G. (2020). Disparities in pancreatic ductal adenocarcinoma–the significance of hispanic ethnicity, 
+subgroup analysis, and treatment facility on clinical outcomes. /Cancer Medicine/, 9, 4069–4082.  
+- Kirkpatrick, A.F., Saghafi, A., *Yang, K.*, Qiu, P., Alexander, J., Bavry, E., and Schwartzman, R. (2020). Optimizing the 
+Treatment of CRPS with Ketamine. /The Clinical Journal of Pain/, 36, 516–523. 
   
 - Iqbal, A., Khan, A., George, T., Tan, S., Qiu, P., *Yang, K.*, Trevino, J., Hughes, S. (2018).
    Objective preoperative parameters predict difficult pelvic dissections and clinical outcomes.
@@ -28,6 +36,19 @@
   
 - Qiu, P., *Yang, K.*, You, L. (2017). Discussion of "Post selection shrinkage estimation 
   for high dimensional data analysis".
-  /Applied Stochastic Models in Business and Industry/, 33, 123--125.
-  
+  /Applied Stochastic Models in Business and Industry/, 33, 123--125. 
+~~~
+
+~~~
+{Submitted Manuscripts}
+
+- *Yang, K.*, Qiu, P. (2020). Design variable-sampling control charts using covariate information. /In revision at IISE Transactions/.  
+- *Yang, K.*, Qiu, P. (2020). A three-step nonparametric regression approach for analyzing spatio- temporal data. /In revision at Annals 
+of the Institute of Statistical Mathematics/.  
+- Qiu, P., *Yang, K.* (2020). Effective disease surveillance by using covariate information. /Under review/.  
+- Allen, B., Robert, C., Cohen, S.A., Nowak, R., Wilkerson, G., Mumma, B., Madsen, T., McCord, J., Veld, M.H., Massoomi, M., 
+Stopyra, J.P., Montero, C., Weaver, M., *Yang, K.*, Mahler, S.A. (2020). Diagnostic performance of high-sensitivity troponin T 
+assay in multisite United States cohort. /In revision at Circulation/.  
+- Chen, X., *Yang, K.*, Chen, D. (2020). Optimizing the latent regression cusp catastrophe model with simulated stochastic 
+approximation annealing–simulation studies and empirical test. /Under review/. 
 ~~~
