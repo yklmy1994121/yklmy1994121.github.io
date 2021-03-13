@@ -12,8 +12,13 @@ Statistical Process Control
 ~~~
 {Publications}
 
-- *Yang, K.*, Qiu, P. (2020). Adaptive process monitoring using covariate information. 
+- *Yang, K.*, Qiu, P. (2021). Adaptive process monitoring using covariate information. 
 /Technometrics/, in press. DOI: 10.1080/00401706.2020.1772115. [https://drive.google.com/file/d/1G5go5bvUiEhxh8FDO4eN57VhS8191bcQ/view?usp=sharing pdf] 
+
+- *Yang, K.*, Qiu, P. (2021). Design variable-sampling control charts using covariate information. /IISE Transactions/, in press. [https://drive.google.com/file/d/1jipBcYYMsO1TxfBgZuhsYAeagJF72NIu/view?usp=sharing pdf] 
+
+- *Yang, K.*, Qiu, P. (2021). A three-step local smoothing approach for estimating the mean and covariance functions of spatio-temporal data. /Annals 
+of the Institute of Statistical Mathematics/, in press. [https://drive.google.com/file/d/1asyk0rzuu6zr0WDjZisaJu6MHYiyfS5H/view?usp=sharing pdf] 
 
 - *Yang, K.*, Qiu, P. (2020). Online sequential monitoring of spatio-temporal disease incidence rates. /IISE Transactions/ 
 (a flagship journal of the Institute of Industrial Engineers), 52, 1218–1233.  [https://drive.google.com/file/d/1GNfodtG6mFgDPA4VVgHU03HyhT_foMjl/view?usp=sharing pdf] 
@@ -23,7 +28,12 @@ Statistical Process Control
   /Statistics in Medicine/, 37, 2094--2107. [https://drive.google.com/file/d/1PdLkextHn6EghfBl0em7QxBc8OrytbDI/view?usp=sharing pdf] 
 - *Yang, K.*, Qiu, P. (2020). BCEWMA: A New and Effective Biosurveillance System for Disease Outbreak Detection. 
 In /Statistical Methods for Global Health and Epidemiology/ (edited by Xinguang Chen and Ding-Geng Chen), 335–352, 
-Springer.  
+Springer. 
+
+- Allen, B., Robert, C., Cohen, S.A., Nowak, R., Wilkerson, G., Mumma, B., Madsen, T., McCord, J., Veld, M.H., Massoomi, M., 
+Stopyra, J.P., Montero, C., Weaver, M., *Yang, K.*, Mahler, S.A. (2021). Diagnostic Performance of High Sensitivity Cardiac 
+Troponin T Strategies and Clinical Variables in a Multisite United States Cohort. /Circulation/, in press. DOI: 10.1161/CIRCULATIONAHA.120.049298.
+
 - Riner, A.N., Underwood, P., *Yang, K.*, Herremans, K.M., Cameron, M.E., Chamala, S., Qiu, P., George, T.J., Permuth, J.B., 
 Merchant, N.B., Trevino, J.G. (2020). Disparities in pancreatic ductal adenocarcinoma–the significance of hispanic ethnicity, 
 subgroup analysis, and treatment facility on clinical outcomes. /Cancer Medicine/, 9, 4069–4082.  
@@ -40,16 +50,6 @@ Treatment of CRPS with Ketamine. /The Clinical Journal of Pain/, 36, 516–523.
 ~~~
 
 ~~~
-{Submitted Manuscripts}
-
-- *Yang, K.*, Qiu, P. (2020). Design variable-sampling control charts using covariate information. /In revision at IISE Transactions/.  
-- Qiu, P., *Yang, K.* (2020). Effective disease surveillance by using covariate information. /In revision at Statistics in Medicine/. 
-
-- *Yang, K.*, Qiu, P. (2020). A three-step nonparametric regression approach for analyzing spatio- temporal data. /In revision at Annals 
-of the Institute of Statistical Mathematics/.  
-- Allen, B., Robert, C., Cohen, S.A., Nowak, R., Wilkerson, G., Mumma, B., Madsen, T., McCord, J., Veld, M.H., Massoomi, M., 
-Stopyra, J.P., Montero, C., Weaver, M., *Yang, K.*, Mahler, S.A. (2020). Diagnostic performance of high-sensitivity troponin T 
-assay in multisite United States cohort. /In revision at Circulation/.  
-- Chen, X., *Yang, K.*, Chen, D. (2020). Optimizing the latent regression cusp catastrophe model with simulated stochastic 
-approximation annealing–simulation studies and empirical test. /Under review/. 
+{Papers In Revision} 
+- Qiu, P., *Yang, K.* (2020). Effective disease surveillance by using covariate information. /In revision at Statistics in Medicine/.  
 ~~~
