@@ -13,7 +13,9 @@ Clinical Trials, Nonparametric Methods, Statistical Process Control
 {Publications}
 
 - *Yang, K.*, Qiu, P. (2021). Adaptive process monitoring using covariate information. 
-/Technometrics/, in press. DOI: 10.1080/00401706.2020.1772115. [https://drive.google.com/file/d/1G5go5bvUiEhxh8FDO4eN57VhS8191bcQ/view?usp=sharing pdf] 
+/Technometrics/, 63, 313–328. [https://drive.google.com/file/d/1G5go5bvUiEhxh8FDO4eN57VhS8191bcQ/view?usp=sharing pdf] 
+
+- Qiu, P., *Yang, K.* (2021). Effective disease surveillance by using covariate information. /Statistics in Medicine/, in press. [https://drive.google.com/file/d/1eo--kW__dUohQnN_BsV4UH_iMg6Kx5t8/view?usp=sharing pdf]
 
 - *Yang, K.*, Qiu, P. (2021). Design variable-sampling control charts using covariate information. /IISE Transactions/ (a flagship journal of the Institute of Industrial Engineers), 
 in press. [https://drive.google.com/file/d/1jipBcYYMsO1TxfBgZuhsYAeagJF72NIu/view?usp=sharing pdf] 
@@ -26,10 +28,13 @@ of the Institute of Statistical Mathematics/, in press. [https://drive.google.co
 - *Yang, K.*, Qiu, P. (2019). Nonparametric estimation of the spatio-temporal covariance structure. /Statistics in Medicine/, 
 38, 4555–4565. [https://drive.google.com/file/d/1SWy82DBBhwwDkK3H4EpyEQxlPXila_rC/view?usp=sharing pdf] 
 - *Yang, K.*, Qiu, P. (2018). Spatiotemporal incidence rate data analysis by nonparametric regression.
-  /Statistics in Medicine/, 37, 2094--2107. [https://drive.google.com/file/d/1PdLkextHn6EghfBl0em7QxBc8OrytbDI/view?usp=sharing pdf] 
+  /Statistics in Medicine/, 37, 2094–2107. [https://drive.google.com/file/d/1PdLkextHn6EghfBl0em7QxBc8OrytbDI/view?usp=sharing pdf] 
 - *Yang, K.*, Qiu, P. (2020). BCEWMA: A New and Effective Biosurveillance System for Disease Outbreak Detection. 
 In /Statistical Methods for Global Health and Epidemiology/ (edited by Xinguang Chen and Ding-Geng Chen), 335–352, 
 Springer. 
+
+- Allen, B., Robert, C., Cohen, S.A., Weaver, M., *Yang, K.*, Mahler, S.A. (2021). Response to letter regarding article ``Diagnostic Performance 
+of High Sensitivity Cardiac Troponin T Strategies and Clinical Variables in a Multisite United States Cohort". Circulation, in press
 
 - Allen, B., Robert, C., Cohen, S.A., Nowak, R., Wilkerson, G., Mumma, B., Madsen, T., McCord, J., Veld, M.H., Massoomi, M., 
 Stopyra, J.P., Montero, C., Weaver, M., *Yang, K.*, Mahler, S.A. (2021). Diagnostic Performance of High Sensitivity Cardiac 
@@ -48,9 +53,4 @@ Treatment of CRPS with Ketamine. /The Clinical Journal of Pain/, 36, 516–523.
 - Qiu, P., *Yang, K.*, You, L. (2017). Discussion of "Post selection shrinkage estimation 
   for high dimensional data analysis".
   /Applied Stochastic Models in Business and Industry/, 33, 123--125. 
-~~~
-
-~~~
-{Papers In Revision} 
-- Qiu, P., *Yang, K.* (2020). Effective disease surveillance by using covariate information. /In revision at Statistics in Medicine/.  
 ~~~
